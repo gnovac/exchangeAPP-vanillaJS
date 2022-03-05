@@ -1,1 +1,1 @@
-#DEMO https://gnovac.github.io/weatherAPP-vanillaJS/
+#DEMO https://gnovac.github.io/exchangeAPP-vanillaJS/
